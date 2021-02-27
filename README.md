@@ -1,2 +1,2 @@
-# C30--Angry-Birds-Stage-5
-This is the angry birds game in the making
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
